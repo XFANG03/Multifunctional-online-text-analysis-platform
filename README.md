@@ -1,3 +1,3 @@
-# test_formyself
+# Multifunctional online text analysis platform
 
-this is a test for using git for team work  
+
